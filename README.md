@@ -13,5 +13,6 @@ These files are meant for Python beginners and those who are slightly familiar w
 The Python program also mentions this specifically
 
 4) The final file (hangman_game.py) is my version of Hangman that's built based on the template.
+
 NOTE: Do try and implement the game using the template file before you open this file to see the code for the game.
 You can however, play the game using this file to see how it works out.
