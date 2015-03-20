@@ -12,7 +12,7 @@ These files are meant for Python beginners and those who are slightly familiar w
 3) The word file used for the hangman program is sourced from: http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt
 The Python program also mentions this specifically
 
-4) The final file (hangman_game.py) is my version of Hangman that's built based on the template.
+4) The final file (hangman_game.py) is my version of Hangman that's built based on the template. UPDATE: I have removed this file for now. I'll add it on Tuesday next week.
 
 NOTE: Do try and implement the game using the template file before you open this file to see the code for the game.
 You can however, play the game using this file to see how it works out.
