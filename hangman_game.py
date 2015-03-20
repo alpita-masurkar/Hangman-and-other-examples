@@ -178,7 +178,9 @@ def get_and_verify_input():
 
 def main():
     global GUESS_LIST
-    path_to_file = "/Users/Anish_Bivalkar/Desktop/SmartyGirls/wordsEn.txt"
+    # Give path to where the word file is located
+    
+    #path_to_file = "/Users/Folder_Name/Folder_Name/Folder_Name/wordsEn.txt"
     populate_word_file(path_to_file)
 
     level = get_difficulty_level()
